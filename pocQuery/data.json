@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nom": "Sous le pont", "proprietaire": "John", "latitude": "5.303", "longitude": "2.132" },
+  { "id": 2, "nom": "Sous la maison", "proprietaire": "Michel", "latitude": "8.303", "longitude": "-2.132" },
+  { "id": 3, "nom": "Sur ton daron", "proprietaire": "Pocahonta", "latitude": "80.303", "longitude": "2.134132" }
+]
